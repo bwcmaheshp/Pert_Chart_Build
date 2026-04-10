@@ -1,5 +1,5 @@
 {
-  "users": [
+  "allowedUsers": [
     { "login": "mahesh", "expiry": "2026-12-31" },
     { "login": "DemoUser1", "expiry": "2026-06-01" },
     { "login": "bwc_3dadmin", "expiry": "2026-06-01" }
