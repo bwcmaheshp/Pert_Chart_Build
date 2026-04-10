@@ -1,0 +1,6 @@
+{
+  "users": [
+    { "login": "mahesh", "expiry": "2026-12-31" },
+    { "login": "DemoUser1", "expiry": "2026-06-01" }
+  ]
+}
