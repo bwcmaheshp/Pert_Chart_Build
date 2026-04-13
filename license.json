@@ -1,6 +1,6 @@
 {
   "config": {
-    "defaultExpiryDays": 15
+    "defaultExpiryDays": 10
   },
   "users": [
     {
