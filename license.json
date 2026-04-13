@@ -9,5 +9,10 @@
   },
   { 
 	"login": "bwc_3dadmin", 
-    "expiry": "2026-04-14" }
+    "expiry": "2026-04-14" 
+  },
+  { 
+	"login": "admin_platform", 
+    "expiry": "2026-04-14" 
+  }
 ]
