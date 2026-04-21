@@ -8,5 +8,10 @@
       "domain": "yoht3dxdev.brainwaveconsulting.co.in",
       "expiry": "2026-04-28"
     }
+     {
+      "login": "admin_platform",
+      "domain": "",
+      "expiry": ""
+    }
   ]
 }
