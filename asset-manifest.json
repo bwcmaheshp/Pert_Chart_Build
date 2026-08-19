@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Pert_Chart_Build/static/css/main.5502bddf.css",
-    "main.js": "/Pert_Chart_Build/static/js/main.535d77bd.js",
+    "main.css": "/Pert_Chart_Build/static/css/main.css",
+    "main.js": "/Pert_Chart_Build/static/js/main.js",
     "index.html": "/Pert_Chart_Build/index.html",
-    "main.5502bddf.css.map": "/Pert_Chart_Build/static/css/main.5502bddf.css.map",
-    "main.535d77bd.js.map": "/Pert_Chart_Build/static/js/main.535d77bd.js.map"
+    "main.css.map": "/Pert_Chart_Build/static/css/main.css.map",
+    "main.js.map": "/Pert_Chart_Build/static/js/main.js.map"
   },
   "entrypoints": [
-    "static/css/main.5502bddf.css",
-    "static/js/main.535d77bd.js"
+    "static/css/main.css",
+    "static/js/main.js"
   ]
 }
