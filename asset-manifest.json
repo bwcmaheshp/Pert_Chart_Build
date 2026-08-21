@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Pert_ChartBuild/static/css/main.css",
-    "main.js": "/Pert_ChartBuild/static/js/main.js",
-    "index.html": "/Pert_ChartBuild/index.html",
-    "main.css.map": "/Pert_ChartBuild/static/css/main.css.map",
-    "main.js.map": "/Pert_ChartBuild/static/js/main.js.map"
+    "main.css": "/Pert_Chart_Build/static/css/main.css",
+    "main.js": "/Pert_Chart_Build/static/js/main.js",
+    "index.html": "/Pert_Chart_Build/index.html",
+    "main.css.map": "/Pert_Chart_Build/static/css/main.css.map",
+    "main.js.map": "/Pert_Chart_Build/static/js/main.js.map"
   },
   "entrypoints": [
     "static/css/main.css",
